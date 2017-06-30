@@ -1,0 +1,9 @@
+C:\Gits\MovieBooking\MovieBooking\bin\Release\netcoreapp1.1\MovieBooking.deps.json
+C:\Gits\MovieBooking\MovieBooking\bin\Release\netcoreapp1.1\MovieBooking.runtimeconfig.json
+C:\Gits\MovieBooking\MovieBooking\bin\Release\netcoreapp1.1\MovieBooking.runtimeconfig.dev.json
+C:\Gits\MovieBooking\MovieBooking\bin\Release\netcoreapp1.1\MovieBooking.dll
+C:\Gits\MovieBooking\MovieBooking\bin\Release\netcoreapp1.1\MovieBooking.pdb
+C:\Gits\MovieBooking\MovieBooking\obj\Release\netcoreapp1.1\MovieBooking.csprojResolveAssemblyReference.cache
+C:\Gits\MovieBooking\MovieBooking\obj\Release\netcoreapp1.1\MovieBooking.AssemblyInfo.cs
+C:\Gits\MovieBooking\MovieBooking\obj\Release\netcoreapp1.1\MovieBooking.dll
+C:\Gits\MovieBooking\MovieBooking\obj\Release\netcoreapp1.1\MovieBooking.pdb
